@@ -1,2 +1,4 @@
-# vagrantfile
-Vagrant file for setting up OST development box
+# devbox
+Vagrant settings for OST development box
+
+https://atlas.hashicorp.com/oshpilaf
